@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnegi/loopback-redux-react-boilerplate"
+    "url": "https://github.com/dnegi3000/loopback-redux-react-boilerplate"
   },
   "description": "A boilerplate for a Redux-React application using LoopBack"
 }
